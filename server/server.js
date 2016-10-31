@@ -13,7 +13,6 @@ var app = express();
 //Middleware function to read http req body as JSON
 app.use(bodyParser.json());
 
-
 //Main page
 app.get('/', (req, res) => {
     //res.send('Hello express Kunal');
