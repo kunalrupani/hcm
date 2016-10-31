@@ -1,0 +1,25 @@
+{
+  "name": "hcm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalrupani/hcm.git"
+  },
+  "author": "Kunal Rupani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalrupani/hcm/issues"
+  },
+  "homepage": "https://github.com/kunalrupani/hcm#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.16.5",
+    "mongoose": "^4.6.5"
+  }
+}
